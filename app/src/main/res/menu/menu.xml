@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+
+    <item
+        android:id="@+id/btnSetting"
+        android:title=""
+        app:showAsAction="always"
+        android:icon="@drawable/ic_settings_24" />
+
+</menu>
